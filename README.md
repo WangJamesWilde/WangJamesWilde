@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WangJamesWilde
+- 👋 Hi, I’m @WangJamesWilde or you can call me 王浩
 - 👀 I’m interested in code or anything,I am just a student
 - 🌱 I’m currently learning college,I even know if the word is right,I am just using my primy English talk to you 
 -     I want to have my copilot,that's why I'm writing this
